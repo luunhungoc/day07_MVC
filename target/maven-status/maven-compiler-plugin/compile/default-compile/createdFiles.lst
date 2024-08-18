@@ -1,0 +1,6 @@
+mvc\formregistration\User.class
+mvc\formregistration\Gender.class
+mvc\controller\HelloWorldController.class
+mvc\main\main.class
+mvc\formregistration\UserController.class
+mvc\configuration\JPAConfig.class
